@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import { LayoutDashboard, BookOpen, Github, Menu, X, CheckCircle2, Info } from 'lucide-react';
+import { LayoutDashboard, BookOpen, Github, Menu, X, CheckCircle2, Info, Calendar } from 'lucide-react';
 import { clsx } from 'clsx';
 import { content } from '../data/content';
 import { useStore } from '../store/useStore';
@@ -12,6 +12,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
   const navItems = [
     { to: '/', icon: LayoutDashboard, label: 'Dashboard' },
     { to: '/curriculum', icon: BookOpen, label: 'Curriculum' },
+    { to: '/calendar', icon: Calendar, label: 'Calendar' },
     { to: '/about', icon: Info, label: 'About' },
   ];
 
