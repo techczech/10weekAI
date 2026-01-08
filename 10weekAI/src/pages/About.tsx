@@ -24,7 +24,7 @@ export function About() {
             <h3 className="font-bold text-gray-900 mt-0">The 15-Minute Workflow:</h3>
             <ol className="list-decimal list-inside space-y-2">
               <li>
-                <strong>Content Extraction:</strong> I listened to the <a href="https://www.youtube.com/watch?v=EhQeGgZxdHU" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline">podcast</a>, shared the link with <strong>Google AI Studio</strong>, and asked for an overview of the weeks with specific timecodes.
+                <strong>Content Extraction:</strong> I listened to <a href="https://aidailybrief.beehiiv.com/" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline">The AI Daily Brief</a> podcast, shared the <a href="https://www.youtube.com/watch?v=EhQeGgZxdHU" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:underline">YouTube video</a> link with <strong>Google AI Studio</strong>, and asked for an overview of the weeks with specific timecodes as outlined by <strong>Nathaniel Whittemore</strong>.
               </li>
               <li>
                 <strong>Vibecoding:</strong> I started the <strong>Gemini CLI</strong> on my local machine and pasted the instructions. The CLI coded the entire React application in approximately 5 prompts.
