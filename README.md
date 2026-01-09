@@ -1,7 +1,9 @@
 # 10 Week AI
 
+
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/techczech/10weekAI)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://10weekai.techczech.net/)
+
 
 A web application designed to help you track and manage your progress through a 10-week AI mastery curriculum. This project serves as a "Vibe Code Kickoff" deliverables tracker and a central hub for your journey from AI preparation to building AI-powered applications.
 
