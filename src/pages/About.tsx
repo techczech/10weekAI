@@ -62,7 +62,7 @@ export function About() {
             The code for this entire platform is available on GitHub. Feel free to fork it or use it as a template for your own AI-generated sites.
           </p>
           <a 
-            href="https://github.com/dominiklukes/cloudflaresites" 
+            href="https://github.com/techczech/10weekAI" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-indigo-600 font-semibold hover:underline"
