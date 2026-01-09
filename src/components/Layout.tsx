@@ -114,7 +114,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
 
         <div className="p-4 border-t bg-gray-50 flex-shrink-0">
           <a
-            href="https://github.com/dominiklukes/cloudflaresites"
+            href="https://github.com/techczech/10weekAI"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-xs text-gray-500 hover:text-gray-900"
