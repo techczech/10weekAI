@@ -1,3 +1,12 @@
+---
+name: "10 Week AI"
+description: "Tracks progress through a ten-week AI curriculum and connects weekly learning to practical deliverables."
+categories: [interactive-learning-objects, web-app, built-by-ai]
+updated: 2026-07-16
+deployments:
+  Appsite:
+    "10 Week AI": https://10weekai.techczech.net/
+---
 # 10 Week AI
 
 
