@@ -1,3 +1,4 @@
+import { RouteCitation } from './citation/RouteCitation';
 import { Routes, Route } from 'react-router-dom';
 import { Layout } from './components/Layout';
 import { Dashboard } from './pages/Dashboard';
@@ -9,6 +10,7 @@ import { CalendarPage } from './pages/CalendarPage';
 function App() {
   return (
     <Layout>
+      <RouteCitation />
       <Routes>
         <Route path="/" element={<Dashboard />} />
         <Route path="/curriculum" element={<Curriculum />} />
