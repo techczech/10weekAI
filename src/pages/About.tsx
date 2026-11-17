@@ -1,3 +1,5 @@
+import { pageForPath } from '../citation/RouteCitation';
+import { CiteThisPage } from '../citation/CiteThisPage';
 import { Github, Code2, Cpu, Zap, ExternalLink } from 'lucide-react';
 
 export function About() {
@@ -72,6 +74,7 @@ export function About() {
         </div>
       </div>
 
+      <CiteThisPage page={pageForPath('/about')} />
       <div className="text-center text-sm text-gray-400">
         Built with Gemini CLI, React, Tailwind, and Zustand.
       </div>
